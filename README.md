@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @francescocappellari96
 - 👀 I’m interested in frontend and backend web development, audio programming 
 - 🌱 I’m currently learning to develop ideas that could change the world we live in
-- 💞️ I’m looking to collaborate on anything that is interesting :)
+- 💞️ I’m looking to collaborate on anything that i find interesting :)
 - 📫 How to reach me: francesco.cappellari96@gmail.com
 
 <!---
